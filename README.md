@@ -1,5 +1,7 @@
 ## Unit 12 - Web Scraping and Document Databases
 
+For this exercise I chose to do a real-world web scrape for common carpentry tools. The purpose of this was to build a preliminary database of items that a family member lost in an instance of garage theft. The dataset was meant to be used in a court proceeding and to account for losses incurred. 
+
 ### Objectives
 
 * Create and connect to local MongoDB databases.
